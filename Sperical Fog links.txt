@@ -1,0 +1,3 @@
+https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes/ray-sphere-intersection
+
+https://www.khanacademy.org/math/algebra-2018/quadratics/solving-quadratics-using-the-quadratic-formula/a/quadratic-formula-explained-article
